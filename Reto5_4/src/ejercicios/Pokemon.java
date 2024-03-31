@@ -4,6 +4,7 @@ public class Pokemon {
 	private String nombrePokemon;
 	private int healthPoints;
 	private int fuerzaDeAtaque;
+	private int nuevo;
 	
 	
 	public Pokemon(String nombrePokemon, int healthPoints, int fuerzaDeAtaque) {
